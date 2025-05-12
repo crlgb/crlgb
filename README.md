@@ -1,1 +1,1 @@
-- Check out **Better Project Automation** https://github.com/goldberc/better-project-automation
+https://cgoldberg.de/
